@@ -37,12 +37,12 @@ def upload(name , num):
     query = {"_id" : name}
     user = collection.find_one(query)
     view_list = user["view"]
-    for vdata in view_list:
-        if vdata == data:
-            pass
-        else:
-            view_list.append(data)
-            collection.update_one({
+    
+    if view_list[-1] == data:
+        pass
+    else:
+        view_list.append(data)
+        collection.update_one({
                 "_id" : name
             } , {"$set" : {
                 "view" : view_list
