@@ -4,7 +4,7 @@
 
 ### features 
 
-get anime views from ani.gamee.com.tw  
+get anime views from ani.gamer.com.tw  
 
 store it in mongodb 
 
