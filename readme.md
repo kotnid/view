@@ -2,3 +2,13 @@
 
 ### started at 26/06/21 , updated at 26/06/21
 
+### features 
+
+get anime views from ani.gamee.com.tw 
+store it in mongodb
+make it as a chart 
+
+## features may add 
+live update website 
+data analysis , compare 
+better chart 
