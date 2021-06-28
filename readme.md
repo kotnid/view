@@ -4,11 +4,17 @@
 
 ### features 
 
-get anime views from ani.gamee.com.tw 
-store it in mongodb
-make it as a chart 
+get anime views from ani.gamee.com.tw  
+
+store it in mongodb 
+
+make it as a chart  
+
 
 ## features may add 
-live update website 
-data analysis , compare 
-better chart 
+live update website  
+
+data analysis , compare  
+
+better chart  
+
