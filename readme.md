@@ -18,3 +18,4 @@ data analysis , compare
 
 better chart  
 
+https://dash.plotly.com/live-updates
